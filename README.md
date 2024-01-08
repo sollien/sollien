@@ -7,7 +7,12 @@
 [![My Skills](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
 
 ## Frameworks & libraries
-[![My Skills](https://skillicons.dev/icons?i=astro,p5js,sass,tailwind,vue,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro)](https://astro.build/)
+[![My Skills](https://skillicons.dev/icons?i=p5js)](https://p5js.org/)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![My Skills](https://skillicons.dev/icons?i=vitest)](https://vitest.dev/)
 
 ## Design
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,xd)](https://skillicons.dev)
