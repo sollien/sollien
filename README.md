@@ -15,7 +15,13 @@
 [![My Skills](https://skillicons.dev/icons?i=vitest)](https://vitest.dev/)
 
 ## Design
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
+[![My Skills](https://skillicons.dev/icons?i=xd)](https://en.wikipedia.org/wiki/Adobe_XD)
 
 ## Build & deployment
-[![My Skills](https://skillicons.dev/icons?i=azure,git,netlify,supabase,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/en-us/products/devops/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
+[![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
