@@ -1,7 +1,8 @@
 # Tech stack
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,graphql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=jsl)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
 ## Frameworks & libraries
