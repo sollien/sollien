@@ -11,4 +11,4 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,xd)](https://skillicons.dev)
 
 ### Build & deployment
-[![My Skills](https://skillicons.dev/icons?i=git,netlify,supabase,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,git,netlify,supabase,vite)](https://skillicons.dev)
