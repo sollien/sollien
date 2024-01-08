@@ -1,6 +1,8 @@
 # Tech stack
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
 ## Frameworks & libraries
 [![My Skills](https://skillicons.dev/icons?i=astro,p5js,sass,tailwind,vue,vitest)](https://skillicons.dev)
