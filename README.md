@@ -9,5 +9,3 @@
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/en-us/products/devops/)
-[![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
-[![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
