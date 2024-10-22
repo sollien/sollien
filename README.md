@@ -12,6 +12,9 @@
 [![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 [![My Skills](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=p5js)](https://p5js.org/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
@@ -20,3 +23,6 @@
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=pnpm)](https://pnpm.io/)
+[![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
