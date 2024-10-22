@@ -1,5 +1,7 @@
 # Hello, I'm Martin 👋
 
+I'm a **Senior UX developer** over at the [Publicis](https://www.publicis.no/) house in Oslo. Currently working on making the in-house tool Cortex a great user experience.
+
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/javascript)
