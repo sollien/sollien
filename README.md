@@ -2,7 +2,7 @@
 
 I'm a **Senior UX developer** over at the [Publicis](https://www.publicis.no/) house in Oslo. Currently working on making the in-house tool Cortex a great user experience.
 
-🌱 Currently learing Rust and Kotlin
+🌱 Currently learning Rust and Kotlin
 
 
 ## Languages
