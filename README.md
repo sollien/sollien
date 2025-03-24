@@ -10,6 +10,7 @@ I'm a **Visual journalist** over at the Norwegian newspaper [Aftenposten](https:
 [![My Skills](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
 
 ## Libraries & frameworks
+[![My Skills](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/)
 [![My Skills](https://skillicons.dev/icons?i=astro)](https://astro.build/)
 [![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 [![My Skills](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
