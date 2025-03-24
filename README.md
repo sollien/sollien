@@ -1,6 +1,6 @@
-# Hello, I'm Martin 👋
+# Hello, I'm Martin.
 
-I'm a **Senior UX developer** over at the [Publicis](https://www.publicis.no/) house in Oslo. Currently working on making the in-house tool Cortex a great user experience.
+I'm a **Visual journalist** over at the Norwegian newspaper [Aftenposten](https://www.aftenposten.no/) in Oslo. Covering different stories and making them visually appealing with code.
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
