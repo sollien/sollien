@@ -1,6 +1,6 @@
 # Hello, I'm Martin.
 
-I'm a **Visual journalist** over at the Norwegian newspaper [Aftenposten](https://www.aftenposten.no/) in Oslo. Covering different stories and making them visually appealing with code.
+I'm a **Visual journalist** over at the Norwegian newspaper [Aftenposten](https://www.aftenposten.no/) in Oslo. Covering different stories and making them visually appealing with code. This GitHub only contains my personal projects.
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
